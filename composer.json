@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Neos\\ContentRepository\\StructureAdjustment": "src"
+            "Neos\\ContentRepository\\StructureAdjustment\\": "src"
         }
     },
     "autoload-dev": {
